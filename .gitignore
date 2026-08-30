@@ -1,0 +1,16 @@
+# Ignore datasets and zipped files
+*.csv
+*.zip
+
+# Ignore generated graphs
+*.png
+*.jpg
+
+# Ignore Python cache and environments
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Ignore Kaggle API credentials (if present)
+kaggle.json
