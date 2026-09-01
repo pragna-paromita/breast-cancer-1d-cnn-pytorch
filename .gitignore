@@ -14,3 +14,9 @@ venv/
 
 # Ignore Kaggle API credentials (if present)
 kaggle.json
+
+*.jpeg
+*.pth
+*.pt
+Oral Cancer/
+Oral cancer Dataset 2.0/
